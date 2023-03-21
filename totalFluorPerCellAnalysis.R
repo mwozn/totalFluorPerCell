@@ -100,7 +100,6 @@ for (i in seq(from = 1, to = nrow(mitoCSVdata_all), by = zSteps)){
 }
 
 # Little prince elephant plots from Michah Allen: https://micahallen.org/2018/03/15/introducing-raincloud-plots/
-# Adapted by Michael Wozny 20210215
 
 source("https://gist.githubusercontent.com/benmarwick/2a1bb0133ff568cbe28d/raw/fb53bd97121f7f9ce947837ef1a4c65a73bffb3f/geom_flat_violin.R")
 
